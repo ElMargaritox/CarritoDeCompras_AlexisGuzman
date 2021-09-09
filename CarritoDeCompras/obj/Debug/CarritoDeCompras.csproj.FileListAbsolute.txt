@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe.config
+C:\Users\alexi\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe
+C:\Users\alexi\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.pdb
+C:\Users\alexi\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.exe
+C:\Users\alexi\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.pdb
