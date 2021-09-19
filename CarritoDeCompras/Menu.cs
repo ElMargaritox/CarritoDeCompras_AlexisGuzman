@@ -56,7 +56,7 @@ namespace CarritoDeCompras
                         bool salir2 = false;
                         do
                         {
-                            //Console.Clear();
+                            
                             Console.WriteLine("¿Está seguro que desea salir? S/N");
                             string opcion2 = Console.ReadLine().ToLower();
                             if (opcion2 == "s") { salir = true; salir2 = true; };
